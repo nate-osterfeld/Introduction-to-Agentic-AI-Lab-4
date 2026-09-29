@@ -1,0 +1,8 @@
+--- Game ECw8MEqT ---
+Analysis: White made multiple serious opening and tactical errors. The worst was 16.Qf1??, allowing ...Qxd3+ and a direct tactical collapse because the bishop on d3 was loose and White's king was stranded in the center. Earlier, 4.f3 and 5.Bf1 also violated opening principles by wasting tempi, blocking natural development, and delaying king safety. Core principles broken: rapid development, castle early, avoid creating tactical targets with loose pieces and an exposed king.
+Lichess Link: https://lichess.org/ECw8MEqT
+
+--- Game lI1yY8TT ---
+Analysis: As Black, 3...f6 was a significant opening inaccuracy that violated core principles: it weakened king safety, did not help rapid development, and created dark-square weaknesses. The later decisive error was 30...Bxf2+?, after which 31.Rxf2 Nxf2 32.Kxf2 left Black down material and without compensation. This was a tactical misjudgment that handed White a winning endgame.
+Lichess Link: https://lichess.org/lI1yY8TT
+
